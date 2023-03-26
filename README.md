@@ -1,6 +1,6 @@
 # Diss-Data
 # 
-# DATA FROM PUBLICATION:
+# SOURCE PUBLICATION:
 # Zhao Z, Chen L, Cao M, Chen T et al. Comparison of lncRNA Expression in the Uterus between Periods of Embryo Implantation and Labor in Mice. Animals (Basel) 2022 Feb 8;12(3). PMID: 35158722
 #
 # GEO Series GSE195795
